@@ -1,0 +1,23 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "JS30 projects with different technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivang-software-developer/JavaScript30.git"
+  },
+  "author": "Shivang Trivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivang-software-developer/JavaScript30/issues"
+  },
+  "homepage": "https://github.com/Shivang-software-developer/JavaScript30#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
